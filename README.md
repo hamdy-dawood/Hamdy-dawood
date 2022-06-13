@@ -32,7 +32,7 @@
 <p align="left"> 
 <a href="https://www.instagram.com/hamdy_khalid_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://znap.link/hamdy_Dawood" target="_blank" rel="noreferrer"><img src="https://uploads-ssl.webflow.com/6026bc921eff07d61a132750/602843b7b4409e5ea0cbcc1c_social-logo-2.png" width="32" height="32" /></a>
-<a href="[mailto:%20hamdykhalid12345@gmail.com](https://github.com/hamdy-dawood)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="mailto:%20hamdykhalid12345@gmail.com" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" width="32" height="32" /></a>
+<a href="mailto:%20hamdykhalid12345@gmail.com" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" width="32" height="32" /></a>  
+<a href="https://github.com/hamdy-dawood" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 </p>
 
